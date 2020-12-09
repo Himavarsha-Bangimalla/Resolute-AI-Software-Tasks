@@ -2,7 +2,11 @@
 
 ## Task 2
 
-Please download the yolo weights and provide its path before running the code.
+The model is YOLO object detection and opencv stitching algorithm. Please download the yolo weights and provide its path before running the code.
+
+## Task 3
+
+I used HoughCircles function and tuned hyper-parameters to accurately detect and predict the number of pipes.
 
 ## Task 5
 
